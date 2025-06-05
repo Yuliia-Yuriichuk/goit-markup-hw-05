@@ -648,16 +648,11 @@ margin-bottom: 16px;
 }
 
 .modal-form {
-    display: block;
-    margin: 0 auto;
-    width: 100%;
-}
-
-.modal-input-container {
-
     margin-bottom: 8px;
-
+    
 }
+
+
 
 .form-label {
     font-family: "Roboto", sans-serif;
