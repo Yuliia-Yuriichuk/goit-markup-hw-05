@@ -655,6 +655,7 @@ margin-bottom: 16px;
 
 
 .form-label {
+    display: block;
     font-family: "Roboto", sans-serif;
     font-weight: 400;
     font-size: 12px;
@@ -662,6 +663,7 @@ margin-bottom: 16px;
     letter-spacing: 0.04em;
     color: #8e8f99;
     margin-bottom: 4px;
+ 
 }
 
 .modal-input-form {
@@ -726,6 +728,7 @@ margin-bottom: 16px;
     color: rgba(46, 47, 66, 0.4);
     border: 1px solid rgba(46, 47, 66, 0.4);
     background-color: transparent;
+    outline: transparent;
     padding: 8px 16px;
     resize: none;
     transition: border-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
